@@ -1,0 +1,71 @@
+/* main.css */
+
+body {
+  background: #925595;
+  font-family: 'Raleway', sans-serif;
+}
+
+.main-conteiner {
+  max-width: 1200px;
+  margin: auto;
+}
+.navigation {
+  background: black;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.navigation-conteiner {
+  max-width: 1200px.
+}
+.logo {
+  display: flex;
+  align-items: center;
+
+}
+.square-logo {
+  width: 80px;
+  height: 60px;
+  background: #925595;
+
+}
+.logo p {
+  color: #925595;
+  font-size: 40px;
+  margin-left: 10px;
+}
+.categories
+{
+  height: 120px;
+  display: flex;
+  align-items: center;
+
+
+}
+.square {
+  width: 80px;
+  height: 60px;
+  background: #925595;
+  margin: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.heading {
+  padding: 20px;
+  padding-top: 50px;
+  font-size: 45px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.main-text {
+  padding: 20px;
+  line-height: 30px;
+}
+.block {
+  height: 400px;
+  width: 800px;
+  background: black;
+  margin: 50px auto;
+
+}
